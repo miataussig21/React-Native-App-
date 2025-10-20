@@ -3,7 +3,6 @@ import { Pressable, Text } from 'react-native';
 import { StyleSheet } from 'react-native';
 
 
-
 class Click extends Component {
     clickMe(){
         console.log("Me Clickearon")
